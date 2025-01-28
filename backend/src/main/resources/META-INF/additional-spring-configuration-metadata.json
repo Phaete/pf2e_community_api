@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "supabase.url",
+      "type": "java.lang.String",
+      "description": "supabase url."
+    },
+    {
+      "name": "supabase.anon",
+      "type": "java.lang.String",
+      "description": "supabase anon key."
+    },
+    {
+      "name": "supabase.jwt_secret",
+      "type": "java.lang.String",
+      "description": "supabase jwt_secret."
+    }
+  ]
+}
