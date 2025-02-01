@@ -1,19 +1,47 @@
-{
-  "properties": [
-    {
-      "name": "supabase.url",
-      "type": "java.lang.String",
-      "description": "supabase url."
-    },
-    {
-      "name": "supabase.anon",
-      "type": "java.lang.String",
-      "description": "supabase anon key."
-    },
-    {
-      "name": "supabase.jwt_secret",
-      "type": "java.lang.String",
-      "description": "supabase jwt_secret."
-    }
-  ]
-}
+{"properties": [
+  {
+    "name": "supabase.projectId",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.projectId'"
+  },
+  {
+    "name": "supabase.url",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.url'"
+  },
+  {
+    "name": "supabase.anonKey",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.anonKey'"
+  },
+  {
+    "name": "supabase.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.jwtSecret'"
+  },
+  {
+    "name": "supabase.successfulLoginRedirectPage",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.successfulLoginRedirectPage'"
+  },
+  {
+    "name": "supabase.passwordRecoveryPage",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.passwordRecoveryPage'"
+  },
+  {
+    "name": "supabase.unauthenticatedPage",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.unauthenticatedPage'"
+  },
+  {
+    "name": "supabase.unauthorizedPage",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.unauthorizedPage'"
+  },
+  {
+    "name": "supabase.isSslOnly",
+    "type": "java.lang.String",
+    "description": "A description for 'supabase.isSslOnly'"
+  }
+]}
