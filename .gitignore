@@ -13,3 +13,4 @@ frontend/package-lock.json
 /backend/target
 
 .vscode/
+node_modules
